@@ -18,3 +18,9 @@ The students will create a python tool that loads genetic data (VCF files) perfo
 ### Technical skills 
 
 Basic python, ML, and data science skills. 
+
+## Initial references
+
+* Main paper: https://arxiv.org/abs/1710.09412
+* https://arxiv.org/abs/2105.01601
+* https://arxiv.org/abs/2008.06374
