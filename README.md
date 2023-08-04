@@ -2,7 +2,7 @@
 RMIT student project: Data augmentation for genetics
 
 Students
-- **First Name:** Osama / **Handle Name:** oalfawzan / **ID:** s3905369 / **Skills:** ML, Data Manipulation and Analysis, Data Visualization
+- Osama
 
 ## General overview
 
