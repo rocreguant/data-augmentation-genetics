@@ -3,6 +3,7 @@ RMIT student project: Data augmentation for genetics
 
 Students
 - Osama
+- Manavjit
 
 ## General overview
 
