@@ -1,6 +1,9 @@
 # Data augmentation for genetics
 RMIT student project: Data augmentation for genetics
 
+Students
+- XXX
+
 ## General overview
 
 ### Project title:  
