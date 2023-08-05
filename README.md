@@ -4,6 +4,7 @@ RMIT student project: Data augmentation for genetics
 Students
 - Osama
 - Manavjit
+- Freddie Twigg
 
 ## General overview
 
