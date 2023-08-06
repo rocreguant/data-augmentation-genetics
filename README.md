@@ -5,6 +5,7 @@ Students
 - Osama
 - Manavjit
 - Freddie Twigg
+- Jyoti 
 
 ## General overview
 
