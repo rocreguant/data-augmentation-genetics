@@ -6,6 +6,7 @@ Students
 - Manavjit
 - Freddie Twigg
 - Jyoti 
+- Chander
 
 ## General overview
 
