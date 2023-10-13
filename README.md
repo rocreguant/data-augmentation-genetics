@@ -5,7 +5,7 @@ Students
 - Osama
 - Manavjit
 - Freddie Twigg
-- Jyoti 
+- Jyoti - s3880522
 - Chander
 
 ## General overview
